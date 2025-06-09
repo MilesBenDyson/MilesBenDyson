@@ -1,0 +1,72 @@
+________________________________________________________________________________
+|                                                                              |
+|                         B E N ' S   I N F O   F I L E                         |
+|______________________________________________________________________________|
+|                                                                              |
+|   Handle: BEN                                                                |
+|   Location: Orken, Germany                                                   |
+|   Profession: Sozialarbeiter / Admin / IT-Quereinsteiger                      |
+|______________________________________________________________________________|
+
+>> ABOUT ME
+------------
+
+  Studium:
+    - Soziale Arbeit & Sozialpädagogik (2010–2015)
+  
+  Beruflicher Werdegang:
+    - 2015–2019: Pädagogische Ambulanz (Jugendhilfe)
+    - Seit 2020: Sozialamt - Bereich Hilfe bei **Wohnungsnotfällen**
+
+  Leidenschaft:
+    - EDV & IT
+    - Automatisierung von Verwaltungsaufgaben
+    - Python & Künstliche Intelligenz
+    - Eigene Tool-Entwicklung
+    
+  Fun Fact:
+    - Dachte früher, Arbeiten im IT-Bereich wäre für mich unerreichbar
+    - Heute programmiere ich eigene Tools & Bots
+
+______________________________________________________________________________
+
+>> CURRENT INTERESTS
+--------------------
+
+    [*] Python (Automatisierung, GUI, KI)
+    [*] Lokale KI-Modelle (GPT4All, Mistral)
+    [*] Toolentwicklung für Alltag & Beruf
+    [*] Gitarrenfrequenz-Analyzer (Projekt)
+    [*] Chatbots & virtuelle Assistenten
+    [*] Softwarestruktur & Codeverständnis
+
+______________________________________________________________________________
+
+>> SKILLS & TOOLS
+------------------
+
+    - Programming: Python, HTML/CSS (basic)
+    - Tools: Git, GitHub, VS Code, Excel (advanced)
+    - Soft Skills: Empathie, strukturiertes Arbeiten, analytisches Denken
+    - Learning: autodidaktisch (Kurse, Projekte, Tutorials)
+
+______________________________________________________________________________
+
+>> CONTACT
+----------
+
+    GitHub: https://github.com/MilesBenDyson
+    E-Mail: benschliebs@gmail.com
+
+______________________________________________________________________________
+
+>> CLOSING THOUGHTS
+-------------------
+
+    "Ich wollte immer *im IT-Bereich arbeiten*, dachte aber, ich kann das nicht.
+     Heute baue ich eigene Tools und programmiere — und finde es großartig!"
+
+______________________________________________________________________________
+|                                                                              |
+|                         B E N ' S   I N F O   F I L E   -   2025             |
+|______________________________________________________________________________
