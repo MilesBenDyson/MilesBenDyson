@@ -1,7 +1,7 @@
-# 👋 Hi, ich bin Ben (aka **MilesBenDyson**)
+# 👋 Hi, Ben mein Name (aka **MilesBenDyson**)
 
-**Sozialarbeiter am Tag — angehender IT-Nerd bei Nacht**  
-Leidenschaftlicher Quereinsteiger in die Welt von Python, KI & Tool-Entwicklung.
+**Sozialarbeiter am Tag — angehender IT-Nerd bei Nacht^^**  
+Neugieriger Quereinsteiger in die Welt von Python, KI & Tool-Entwicklung.
 
 ---
 
@@ -37,7 +37,7 @@ Leidenschaftlicher Quereinsteiger in die Welt von Python, KI & Tool-Entwicklung.
 
 - **Programming:** Python, HTML/CSS (basic)
 - **Tools:** Git, GitHub, VS Code, Excel (advanced)
-- **Soft Skills:** Empathie, strukturiertes Arbeiten, analytisches Denken
+- **Soft Skills:** Empathie, strukturiertes Arbeiten, analytisches Denken, Fehlerbehebung
 - **Learning:** autodidaktisch (Kurse, Projekte, Tutorials)
 
 ---
@@ -50,7 +50,7 @@ Leidenschaftlicher Quereinsteiger in die Welt von Python, KI & Tool-Entwicklung.
 ---
 
 > *"Ich wollte immer im IT-Bereich arbeiten, dachte aber, der Zug ist nun abgefahren."  
-> Heute baue ich eigene Tools und programmiere — und finde es großartig!"*
+> nun baue ich eigene Tools und programmiere — und finde es großartig!"*
 
 ---
 
