@@ -12,6 +12,7 @@ Neugieriger Quereinsteiger in die Welt von Python, KI & Tool-Entwicklung.
   - 2015–2019: Pädagogische Ambulanz (Jugendhilfe)
   - Seit 2020: Sozialamt - Bereich Hilfe bei **Wohnungsnotfällen**
 - 💻 **Leidenschaften:**
+  - Heavy Metal und e-Gitarre
   - EDV & IT
   - Automatisierung von Verwaltungsaufgaben
   - Python & Künstliche Intelligenz
