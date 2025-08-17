@@ -19,7 +19,8 @@ Neugieriger Quereinsteiger in die Welt von Python, KI & Tool-Entwicklung.
   - Eigene Tool-Entwicklung
 - 🤓 **Fun Fact:**
   - Dachte früher, Arbeiten im IT-Bereich wäre für mich unerreichbar
-  - Heute programmiere ich eigene Tools & Bots
+  - man kommt doch besser in das Thema der aktuellen IT rein, als erwartet
+    
 
 ---
 
@@ -31,6 +32,7 @@ Neugieriger Quereinsteiger in die Welt von Python, KI & Tool-Entwicklung.
 - 🎸 Gitarrenfrequenz-Analyzer (Projekt)
 - 🗨️ Chatbots & virtuelle Assistenten
 - 🏗 Softwarestruktur & Codeverständnis
+- Cybersecurity Team Red
 
 ---
 
@@ -50,8 +52,8 @@ Neugieriger Quereinsteiger in die Welt von Python, KI & Tool-Entwicklung.
 
 ---
 
-> *"Ich wollte immer im IT-Bereich arbeiten, dachte aber, der Zug ist nun abgefahren."  
-> nun baue ich eigene Tools und programmiere — und finde es großartig!"*
+> *"Ich wollte immer im IT-Bereich arbeiten, dachte aber, der Zug ist nun abgefahren, doch jetzt weiß ich es besser  :D ."  
+
 
 ---
 
